@@ -1,4 +1,4 @@
-# Moi, c'est Ton Nom
+# Moi, c'est MASSA MOÏSE
 
 Étudiant en L3 MIAGE à l'Université Polytechnique de Bingerville, à Abidjan. Je me dirige vers la recherche en intelligence artificielle : je cherche à comprendre les modèles de langage en les reconstruisant moi-même, pièce par pièce.
 
@@ -25,5 +25,5 @@
 
 ## Me contacter
 
-- E-mail : ton-email@exemple.com
-- Site : https://ton-pseudo.github.io
+- E-mail : massamoses26@gmail.com
+- Site : https://github.com/massamoses26-hue
